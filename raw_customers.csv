@@ -1,0 +1,6 @@
+id,name,email,status,signup_date
+1, Rahul Kumar ,rahul@example.com,active,2026-01-15
+2,Priya Sharma,,active,2026-02-01
+3,Amit Singh,amit@example.com,INACTIVE,2026-02-10
+4, Neha Gupta ,neha@example.com,active,
+5,Suresh Patel,suresh@example.com,active,2026-03-01
